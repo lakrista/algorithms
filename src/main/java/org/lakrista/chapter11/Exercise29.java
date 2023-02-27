@@ -11,7 +11,7 @@ import java.util.Arrays;
  * Примечание: если i и j - значения, возвращенные вызовами rank(key, a) и count(key, a) соответственно,
  * то a[i..i+j-1] - значения в массиве, равные key.
  */
-public class Task4 {
+public class Exercise29 {
 
     public static void main(String[] args) {
         int[] whitelist = {1, 5, 4, 3, 6, 8, 5, 0, 9, 10, 7, 0, 4};

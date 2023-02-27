@@ -14,7 +14,7 @@ import java.util.List;
  * для вычисления значения binomial(100, 50). Разработайте лучшую реализацию,
  * в которой вычисленные значения хранятся в массиве.
  */
-public class Task2 {
+public class Exercise27 {
 
     public static void main(String[] args) {
         List<Double> it = new ArrayList<>();

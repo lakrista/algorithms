@@ -7,7 +7,7 @@ import java.util.Arrays;
  * Измените клиент тестирования в программе BinarySearch, чтобы после сортировки
  * белого списка из него удалялись все повторяющиеся ключи
  */
-public class Task3 {
+public class Exercise28 {
 
     public static void main(String[] args) {
         int[] whitelist = {1, 5, 4, 3, 6, 8, 5};

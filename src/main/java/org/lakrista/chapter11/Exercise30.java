@@ -7,7 +7,7 @@ import java.util.Arrays;
  * Напишите фрагмент кода, который создает логический массив a[][] размером NxN - такой, что a[i][j] равно true,
  * если i и j взаимно просты (не имеют общего делителя), и false в противном случае
  */
-public class Task5 {
+public class Exercise30 {
 
     public static void main(String[] args) {
         System.out.println(Arrays.deepToString(hasCommonDivider(5)));

@@ -8,7 +8,7 @@ package org.lakrista.chapter11;
  * if (a > c) { t = a; a = c; c = t; }
  * if (b > c) { t = b; b = c; c = t; }
  */
-public class Task1 {
+public class Exercise26 {
 
     public static void main(String[] args) {
         max(4, 7, 3, 1);
